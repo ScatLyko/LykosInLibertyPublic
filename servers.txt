@@ -1,0 +1,13 @@
+# Lyko's In Liberty - multiplayer server list
+#
+# One server per line:   Name|IP|Port
+# Lines starting with # are ignored. Up to 8 servers.
+#
+# These show up in the Multiplayer menu - pick one, set your name, connect.
+# Add your own servers here; no reinstall or rebuild needed, just restart
+# the game.
+
+Lyko Official|78.154.103.26|12117
+
+# For anyone running the relay on their own machine (see mp-server/).
+Local Test|127.0.0.1|8080

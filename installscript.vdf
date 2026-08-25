@@ -1,0 +1,9 @@
+"InstallScript"
+{
+       "Registry"
+       {
+               "HKEY_LOCAL_MACHINE\\SOFTWARE\\Rockstar Games\\GTAIII\\1.00.000"
+               {
+               }
+        }
+}
